@@ -1,0 +1,22 @@
+# Compressed files
+*.zip
+*.rar
+*.tar.gz
+
+# Environment files
+.env
+.env.local
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
